@@ -68,14 +68,6 @@ streamlit run app.py
 
 ---
 
-## Screenshots
-
-```
-![Movie Recommender System](images/screenshot.png)
-```
-
----
-
 ## Dataset
 
 The recommendation model was built using the TMDB movie dataset.
